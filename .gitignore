@@ -1,0 +1,15 @@
+# ROS 2 ARTIFACTS
+build/
+install/
+log/
+.colcon/
+.vscode/
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Security
+.sros2/
